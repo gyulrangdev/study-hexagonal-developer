@@ -1,4 +1,4 @@
-# 육각형 개발자
+# 육각형 개발자: 시니어 개발자로 성장하기 위한 10가지 핵심 역량
 
 <img src="https://cdn-prod.hanbit.co.kr/books/B7230685099_l.jpg" alt="육각형 개발자" width="200">
 최범균, 한빛미디어
@@ -6,7 +6,7 @@
 ## 책 소개
 
 육각형 개발자는 개발자가 되기 위한 다양한 기술과 방법을 소개하는 책입니다.
-[육각형 개발자](https://product.kyobobook.co.kr/detail/S000202032140)
+[육각형 개발자](https://product.kyobobook.co.kr/detail/S000203107475)
 
 ## 책 내용
 
